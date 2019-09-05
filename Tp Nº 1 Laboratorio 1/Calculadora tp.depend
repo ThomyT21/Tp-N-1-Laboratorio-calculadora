@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1566994292 source:c:\users\alumno\desktop\calculadora tp\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567565341 source:c:\users\karina\desktop\1er-lenguaje-c-master\calculadora codigos aprendidos en clase\operaciones.c
+	"Operaciones.h"
+
+1567558751 c:\users\karina\desktop\1er-lenguaje-c-master\calculadora codigos aprendidos en clase\operaciones.h
+	<stdio.h>
+
+1567565596 source:c:\users\karina\desktop\1er-lenguaje-c-master\calculadora codigos aprendidos en clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1567650067 source:c:\users\karina\desktop\1er-lenguaje-c-master\tp nº 1 laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1567650067 c:\users\karina\desktop\1er-lenguaje-c-master\tp nº 1 laboratorio 1\operaciones.h
+	<stdio.h>
+
+1567650067 source:c:\users\karina\desktop\1er-lenguaje-c-master\tp nº 1 laboratorio 1\operaciones.c
+	"Operaciones.h"
+
